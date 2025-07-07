@@ -1,3 +1,5 @@
 # Requirement Analysis in Software Development
 
-This repository documents the requirement analysis phase of a software development project. It is part of a simulated project to build a Booking Management System and aims to provide a clear blueprint of how requirements are gathered, analyzed, and validated. The repository includes functional and non-functional requirements, use case diagrams, and acceptance criteria to ensure the software is built in alignment with user and business needs.
+This repository contains documentation and artifacts related to the process of requirement analysis in software development.
+
+The purpose of this repository is to demonstrate the foundational steps in identifying, analyzing, and documenting user and system requirements. It includes examples of use case diagrams, acceptance criteria, and structured analysis for building robust software systems.
